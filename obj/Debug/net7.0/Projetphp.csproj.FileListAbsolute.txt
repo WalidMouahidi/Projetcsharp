@@ -1,0 +1,14 @@
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.AssemblyInfoInputs.cache
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.AssemblyInfo.cs
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.csproj.CoreCompileInputs.cache
+C:\Users\21270\Desktop\CSharp\Projetphp\bin\Debug\net7.0\Projetphp.exe
+C:\Users\21270\Desktop\CSharp\Projetphp\bin\Debug\net7.0\Projetphp.deps.json
+C:\Users\21270\Desktop\CSharp\Projetphp\bin\Debug\net7.0\Projetphp.runtimeconfig.json
+C:\Users\21270\Desktop\CSharp\Projetphp\bin\Debug\net7.0\Projetphp.dll
+C:\Users\21270\Desktop\CSharp\Projetphp\bin\Debug\net7.0\Projetphp.pdb
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.dll
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\refint\Projetphp.dll
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.pdb
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\Projetphp.genruntimeconfig.cache
+C:\Users\21270\Desktop\CSharp\Projetphp\obj\Debug\net7.0\ref\Projetphp.dll
